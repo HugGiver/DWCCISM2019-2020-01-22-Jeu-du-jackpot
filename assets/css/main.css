@@ -1,0 +1,13 @@
+.slot {
+    background-color: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgb(231, 164, 150);
+}
